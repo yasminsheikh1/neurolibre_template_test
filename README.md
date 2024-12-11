@@ -3,6 +3,8 @@
 ## Brainhackers present: 
 John Griffiths
 Justin Chang
+John Griffiths  
+John Doe  
 ...
 
 ## Preprint template
