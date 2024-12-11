@@ -1,6 +1,8 @@
 # Testing the NeuroLibre Template
 
 ## Brainhackers present: 
+John Griffiths
+Justin Chang
 John Griffiths  
 John Doe  
 Priya van Oosterhout  
