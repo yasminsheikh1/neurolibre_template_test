@@ -1,3 +1,10 @@
+# Testing the NeuroLibre Template
+
+## Brainhackers present: 
+John Griffiths
+...
+...
+
 ## Preprint template
 
 Template repository for NeuroLibre reproducibe preprint submissions.
