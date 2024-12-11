@@ -3,6 +3,7 @@
 ## Brainhackers present: 
 John Griffiths  
 John Doe  
+Priya van Oosterhout  
 ...
 
 ## Preprint template
