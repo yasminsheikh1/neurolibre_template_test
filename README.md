@@ -1,8 +1,8 @@
 # Testing the NeuroLibre Template
 
 ## Brainhackers present: 
-John Griffiths
-...
+John Griffiths  
+John Doe  
 ...
 
 ## Preprint template
